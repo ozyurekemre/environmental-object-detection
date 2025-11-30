@@ -175,6 +175,3 @@ _Source: page 20_ :contentReference[oaicite:13]{index=13}
 
 This ensures fully ethical environmental surveillance.
 
----
-
-## 📦 Repository Structure  
